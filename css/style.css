@@ -1,0 +1,11 @@
+html, body{
+    background: var(--kosong);
+}
+
+:root {
+    --default: black; 
+    --benar: limegreen;
+    --salah: yellow;
+    --kosong: grey;
+    --test: white;
+}
